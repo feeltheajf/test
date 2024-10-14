@@ -11,7 +11,7 @@ body:
     id: email
     attributes:
       label: Your email
-      description: How can we get in touch with you if we need more info?
+      description: How can we get in touch with you if we need more info? [See more](https://google.com)
       placeholder: ex. email@wearehackerone.com
     validations:
       required: true
