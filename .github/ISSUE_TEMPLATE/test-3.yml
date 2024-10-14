@@ -20,8 +20,8 @@ body:
     attributes:
       label: Product
       description: What software are you running?
-      multiple: true
       options:
+        - ""
         - Product 1
         - Product 2
         - Product 3
